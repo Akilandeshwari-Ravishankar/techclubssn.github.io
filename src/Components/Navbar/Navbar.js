@@ -107,7 +107,7 @@ class NavbarTC extends Component {
               margin: "0 0 0 10px",
             }}
           >
-            TechClubSSN
+            TechClub SSN
           </h1>
           <Navbar.Toggle style={{ position: "absolute", right: "0" }} />
         </Navbar.Header>
